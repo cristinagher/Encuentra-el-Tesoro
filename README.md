@@ -11,9 +11,7 @@ Encuentra el tesoro mediante pistas de frío, caliente, o templado.
 
 **Cristina Gámez**
 
-- [micorreo@midominio.com](cristinagamezhernandez@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/tu-url-de-linkedin/)
-
+- [cristinagamezhernandez@gmail.com](cristinagamezhernandez@gmail.com)
 ## Instalación
 
 Este proyecto no necesita de instalación. Simplemente abre la carpeta o haz doble click en el .html
